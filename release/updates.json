@@ -1,0 +1,19 @@
+{
+  "updates": [
+    {
+      "version": "1.0.0",
+      "date": "2023-06-18",
+      "description": "First release of the model."
+    },
+    {
+      "version": "1.1.0",
+      "date": "2023-07-01",
+      "description": "Added new features and improvements."
+    },
+    {
+      "version": "1.2.0",
+      "date": "2023-08-15",
+      "description": "Fixed bugs and optimized performance."
+    }
+  ]
+}
